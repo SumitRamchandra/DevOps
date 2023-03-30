@@ -2,10 +2,13 @@ This is the first feature of our application
 
 This is the bug fix in development branch.
 
+<<<<<<< HEAD
 and this is the task
 This is the advancement of the previous feature
 
 Feature 2 is completed and ready for release Commit.
 
+and this is the task of day 11
+ de17720 (Added feature2.2 in development branch)
 
 This is the advancement of the previous feature.
