@@ -8,3 +8,5 @@ This is the advancement of the previous feature
 
 Feature 2 is completed and ready for release Commit.
 
+
+This is the advancement of previous feature
